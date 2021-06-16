@@ -1,0 +1,113 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "671b4a4e3943774d5197af3b6575f483",
+    "packages": [
+        {
+            "name": "krypt0nn/consoleargs",
+            "version": "2.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KRypt0nn/ConsoleArgs.git",
+                "reference": "085142dc6b997044813a4449dfc473194ea2064a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KRypt0nn/ConsoleArgs/zipball/085142dc6b997044813a4449dfc473194ea2064a",
+                "reference": "085142dc6b997044813a4449dfc473194ea2064a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "ConsoleArgs.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Nikita Podvirnyy",
+                    "email": "suimin.tu.mu.ga.mi@gmail.com",
+                    "homepage": "https://github.com/KRypt0nn",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP library which add a few classes to realize your own command manager",
+            "homepage": "https://github.com/KRypt0nn/ConsoleArgs",
+            "keywords": [
+                "cli",
+                "console"
+            ],
+            "support": {
+                "issues": "https://github.com/KRypt0nn/ConsoleArgs/issues",
+                "source": "https://github.com/KRypt0nn/ConsoleArgs/tree/2.1.2"
+            },
+            "time": "2021-06-04T21:04:50+00:00"
+        },
+        {
+            "name": "krypt0nn/vkapi",
+            "version": "3.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KRypt0nn/VKAPI.git",
+                "reference": "b70b7bea0aa993a14d7e5347b2e60e1240d22ccd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KRypt0nn/VKAPI/zipball/b70b7bea0aa993a14d7e5347b2e60e1240d22ccd",
+                "reference": "b70b7bea0aa993a14d7e5347b2e60e1240d22ccd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "VKAPI.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Nikita Podvirnyy",
+                    "email": "suimin.tu.mu.ga.mi@gmail.com",
+                    "homepage": "https://github.com/KRypt0nn",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP library for working with VK API",
+            "homepage": "https://github.com/KRypt0nn/VKAPI",
+            "keywords": [
+                "api",
+                "vk"
+            ],
+            "support": {
+                "issues": "https://github.com/KRypt0nn/VKAPI/issues",
+                "source": "https://github.com/KRypt0nn/VKAPI/tree/3.2.1"
+            },
+            "time": "2021-03-13T10:29:42+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

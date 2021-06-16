@@ -1,0 +1,6 @@
+{
+    "require": {
+        "krypt0nn/vkapi": "^3.2",
+        "krypt0nn/consoleargs": "^2.1"
+    }
+}
